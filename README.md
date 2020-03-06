@@ -1,6 +1,6 @@
 # About
 
-Abandoned Next.js/React that was going to power the portfolio but I decided to switch to Gatsby.
+Playing around with Next.js as a way to make portfolio website, but decided to use Gatsby instead
 
 ## Run locally
 
